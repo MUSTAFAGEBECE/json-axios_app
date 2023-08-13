@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1691955111155,
+      "title": "sil butonu ekle",
+      "date": "13.08.2023 22:31:51",
+      "isDone": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bilal"
+    },
+    {
+      "id": 2,
+      "name": "Ahmet"
+    },
+    {
+      "id": 3,
+      "name": "İnci"
+    }
+  ]
+}
